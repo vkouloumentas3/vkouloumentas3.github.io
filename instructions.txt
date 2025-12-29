@@ -1,0 +1,7 @@
+how to run the project? 
+
+1. open the terminal
+2. run the command "npm install"
+3. run the command "npm start"
+4. open the browser and go to the url "http://localhost:3000"
+5. enjoy the project
